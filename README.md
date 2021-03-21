@@ -19,4 +19,4 @@ Another important advantage is that its model training and prediction times are 
 
 ## Result and code
 
-Please see code [here](https://github.com/mingge612/Decision-Tree-classifier/blob/main/decisionTree.ipynb) for details.
+Please see code [here](https://github.com/mingge612/spam-classif/blob/main/Naive%20Bayes%20Spam.ipynb) for details.
